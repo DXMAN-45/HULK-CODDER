@@ -3,8 +3,8 @@
 ### Full-Stack Developer · Building Thoughtful Digital Experiences
 
 <p align="center">
-  <a href="https://github.com/HULK-CODDER">
-    <img src="https://komarev.com/ghpvc/?username=HULK-CODDER&style=flat-square&color=9C835B&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/DXMAN-45">
+    <img src="https://komarev.com/ghpvc/?username=DXMAN-45&style=flat-square&color=9C835B&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-9C835B?style=flat-square" alt="Open to opportunities" />
@@ -51,7 +51,7 @@ A streamlined URL shortener focused on simplicity, clean presentation, and effor
 
 An interactive logistics training platform inspired by container transportation workflows, order management, and dispatch operations.
 
-[View Live Project ↗](https://hulk-codder.github.io/HutchFlow/)
+[View Live Project ↗](https://DXMAN-45.github.io/HutchFlow/)
 
 ---
 
@@ -89,12 +89,12 @@ A modern password manager project built around privacy, simplicity, and a straig
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HULK-CODDER&show_icons=true&hide_border=true&bg_color=F7F5F0&title_color=806744&icon_color=9C835B&text_color=343434" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HULK-CODDER&layout=compact&hide_border=true&bg_color=F7F5F0&title_color=806744&text_color=343434" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DXMAN-45&show_icons=true&hide_border=true&bg_color=F7F5F0&title_color=806744&icon_color=9C835B&text_color=343434" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXMAN-45&layout=compact&hide_border=true&bg_color=F7F5F0&title_color=806744&text_color=343434" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=HULK-CODDER&hide_border=true&background=F7F5F0&ring=9C835B&fire=9C835B&currStreakLabel=806744&sideLabels=806744&currStreakNum=343434&sideNums=343434&dates=777777" alt="Contribution streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=DXMAN-45&hide_border=true&background=F7F5F0&ring=9C835B&fire=9C835B&currStreakLabel=806744&sideLabels=806744&currStreakNum=343434&sideNums=343434&dates=777777" alt="Contribution streak" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I'm always interested in meaningful conversations, interesting engineering chall
     <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-806744?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
   &nbsp;
-  <a href="https://github.com/HULK-CODDER">
+  <a href="https://github.com/DXMAN-45">
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-171717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
   </a>
 </p>
